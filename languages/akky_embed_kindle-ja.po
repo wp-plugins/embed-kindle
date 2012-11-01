@@ -1,0 +1,362 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Embed Kindle\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-29 18:42+0900\n"
+"PO-Revision-Date: 2012-10-29 18:44+0900\n"
+"Last-Translator: Roomshare Japan <siteadmin@roomshare.jp>\n"
+"Language-Team: Akky Akimoto\n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_;gettext;gettext_noop\n"
+"X-Poedit-Basepath: C:\\Users\\akky\\Documents\\services\\akimotojp\\blog\\wp-"
+"content\\plugins\\embed-kindle\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: includes\n"
+
+#: includes/Akky/EmbedKindle.php:12
+msgid "Embed Kindle"
+msgstr "Kindle埋め込み"
+
+#: includes/Akky/EmbedKindle.php:13
+msgid "Embed Kindle Setting"
+msgstr "Kindle埋め込み設定"
+
+#: includes/Akky/EmbedKindle.php:101
+msgid "Not displayed if no sample available in your country"
+msgstr "あなたの国にない書籍やサンプルがない書籍は正しく表示されません"
+
+#: includes/Akky/EmbedKindle.php:121 includes/Akky/EmbedKindle.php:136
+msgid " Setting"
+msgstr "設定"
+
+#: includes/Akky/EmbedKindle.php:164
+msgid "Amazon Affiliate ID"
+msgstr "アマゾンのアフィリエイトID"
+
+#: includes/Akky/EmbedKindle.php:171
+msgid "Your ID"
+msgstr "あなたのID"
+
+#: includes/Akky/EmbedKindle.php:180
+msgid "You may set your Amazon affiliate ID"
+msgstr "あなたのAmazonアフィリエイトIDを設定できます"
+
+#~ msgid "Embed iPhone App"
+#~ msgstr "iPhone App埋込"
+
+#~ msgid "Embed iPhone/iPad App"
+#~ msgstr "iPhone/iPadアプリ埋め込み 設定"
+
+#~ msgid ""
+#~ "Embed iPhone/iPad App requires PHP5.3 or higher. The plugin has now "
+#~ "disabled itself."
+#~ msgstr ""
+#~ "Embed iPhone/iPad Appプラグインが動作するにはPHP5.3以上が必要です。プラグ"
+#~ "インは自動で停止しました。"
+
+#~ msgid ""
+#~ "Embed iPhone/iPad App requires WordPress3.3 or higher. The plugin has now "
+#~ "disabled itself."
+#~ msgstr ""
+#~ "Embed iPhone/iPad Appプラグインが動作するにはWordPress 3.3以上が必要です。"
+#~ "プラグインは自動で停止しました。"
+
+#~ msgid "Usage"
+#~ msgstr "使い方"
+
+#~ msgid "Linkshare(US) User Information"
+#~ msgstr "リンクシェア(米国)の情報"
+
+#~ msgid "Linkshare(US) Web Service Token"
+#~ msgstr "リンクシェア(米国)のWebサービス・トークン"
+
+#~ msgid "Linkshare(Japan) User Information"
+#~ msgstr "リンクシェア・ジャパンの情報"
+
+#~ msgid "Linkshare(Japan) Web Service Token"
+#~ msgstr "リンクシェア・ジャパンのWebサービス・トークン"
+
+#~ msgid "Affiliate In Other Countries"
+#~ msgstr "他の国でのアフィリエイト"
+
+#~ msgid "Others"
+#~ msgstr "その他"
+
+#~ msgid ""
+#~ "The token seems not to be a valid Linkshare(%s) token. Please check your "
+#~ "token on Linkshare"
+#~ msgstr ""
+#~ "入力されたトークンは、リンクシェア(%s)のトークンの形式に合っていません。リ"
+#~ "ンクシェアのサイトでトークンを再確認してください。"
+
+#~ msgid ""
+#~ "%s extracts iTunes App Store iOS application URL into a structured app "
+#~ "info"
+#~ msgstr ""
+#~ "%s は、iTunesアップストアのiOSアプリのURLをアプリ情報に展開して表示しま"
+#~ "す。"
+
+#~ msgid "Example"
+#~ msgstr "使用例"
+
+#~ msgid "You just paste an URL of the app into the body. For example,"
+#~ msgstr "以下のように、本文中にアプリのURLを貼り付けます。"
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid "Tips"
+#~ msgstr "ヒント"
+
+#~ msgid ""
+#~ "If you are using not HTML Editor but Visual Editor, you need to unlink "
+#~ "the URL. <a href=\"%s\">Check </a>"
+#~ msgstr ""
+#~ "あなたがHTMLエディタではなくビジュアルエディタを使っている場合、URLのリン"
+#~ "クを外す必要があります。 <a href=\"%s\">確認 </a>"
+
+#~ msgid ""
+#~ "You may need to turn on URL embed settings in <a href=\"%s\">[Settings]-"
+#~ "[Media]</a>. You may also set <a href=\"%s\">Maximum embed size width</a> "
+#~ "to limit the maximum width of screenshots frame."
+#~ msgstr ""
+#~ "URL埋め込みの設定を<a href=\"%s\">[設定]-[メディア]</a>でオンにしてくださ"
+#~ "い。スクリーンショットを表示する枠の最大幅は<a href=\"%s\">埋め込みファイ"
+#~ "ルの最大サイズ</a>で指定します。"
+
+#~ msgid ""
+#~ "The app information are cached on database to avoid fetching data every "
+#~ "time the post displayed. If you use any of <a href=\"%s\" target=\"_blank"
+#~ "\">Object Cache plugins</a>, this plugin will use it and rendering will "
+#~ "be much faster (recommended as it speeds up whole your WordPress)."
+#~ msgstr ""
+#~ "投稿が表示される度にデータを取りに行くのを避けるため、アプリの情報はデータ"
+#~ "ベースにキャッシュされます。もし<a href=\"%s\" target=\"_blank\">Object "
+#~ "Cacheプラグイン</a>のどれかをお使いの場合、このプラグインはそれを利用する"
+#~ "ため、とても軽くなります。(ワードプレス全体が軽くなるのでお勧めします)"
+
+#~ msgid ""
+#~ "If affiliate tokens are not set, plugin's own tokens will be used for "
+#~ "supporting further development."
+#~ msgstr ""
+#~ "アフィリエイトトークンが未設定の時、今後の開発のためプラグイン作者のトーク"
+#~ "ンが使用されます"
+
+#~ msgid "Linkshare user can convert App Store link to affiliate link"
+#~ msgstr ""
+#~ "リンクシェア(米国)の利用者はApp Storeのリンクをアフィリエイト化できます"
+
+#~ msgid ""
+#~ "Linkshare registered user <a href=\"http://cli.linksynergy.com/cli/"
+#~ "publisher/links/webServices.php\">can get the key here</a>"
+#~ msgstr ""
+#~ "リンクシェア(米国)のユーザーユーザーは、<a href=\"http://cli.linksynergy."
+#~ "com/cli/publisher/links/webServices.php\">こちらからキーを取得できます</"
+#~ "a>。"
+
+#~ msgid ""
+#~ "You can <a href=\"http://ad.linksynergy.com/fs-bin/show?"
+#~ "id=dLarP1p5PAY&bids=7097&type=3&subid=0\">register Linkshare</a> to earn "
+#~ "commissions when the apps are sold"
+#~ msgstr ""
+#~ "リンクシェア(米国)には<a href=\"http://ad.linksynergy.com/fs-bin/show?"
+#~ "id=dLarP1p5PAY&bids=7097&type=3&subid=0\">こちらから登録できます</a>。"
+
+#~ msgid "Linkshare Japan user can convert App Store link to affiliate link"
+#~ msgstr ""
+#~ "リンクシェア・ジャパンのユーザーはApp Storeのリンクをアフィリエイト化でき"
+#~ "ます"
+
+#~ msgid ""
+#~ "Linkshare Japan registered user <a href=\"http://cli.linksynergy.com/cli/"
+#~ "publisher/links/webServices.php\">can get the key here</a>"
+#~ msgstr ""
+#~ "リンクシェアジャパンの登録ユーザーは、<a href=\"http://cli.linksynergy."
+#~ "com/cli/publisher/links/webServices.php\">こちらからキーを取得できます</"
+#~ "a>。"
+
+#~ msgid ""
+#~ "You can <a href=\"http://click.linksynergy.com/fs-bin/click?"
+#~ "id=RGWPXSqy5PM&offerid=78559.10000049&type=3&subid=0\">register Linkshare "
+#~ "Japan</a> to earn commissions when the apps are sold"
+#~ msgstr ""
+#~ "リンクシェアジャパンには<a href=\"http://click.linksynergy.com/fs-bin/"
+#~ "click?id=RGWPXSqy5PM&offerid=78559.10000049&type=3&subid=0\">こちらから登"
+#~ "録できます</a>。"
+
+#~ msgid ""
+#~ "Currently this plugin does not support other affiliate providers in other "
+#~ "countries/regions(Tradedoubler). We were not approved by them so unable "
+#~ "to test."
+#~ msgstr ""
+#~ "現在、このプラグインでは上記以外の国や地域でのアフィリエイトサービス"
+#~ "(Tradedoubler)に対応していません。"
+
+#~ msgid "Plugin Page"
+#~ msgstr "プラグインページ"
+
+#~ msgid "WordPress Plugin Forum"
+#~ msgstr "WordPress Pluginフォーラム"
+
+#~ msgid "WordPress Plugin Bug Tracker"
+#~ msgstr "WordPressプラグイン バグ管理システム"
+
+#~ msgid "Feedbacks"
+#~ msgstr "フィードバック"
+
+#~ msgid ""
+#~ "If you like this plugin and keep using, please review it on <a href=\"%s"
+#~ "\" title=\"%s\" target=\"_blank\">%s</a>."
+#~ msgstr ""
+#~ "もしこのプラグインを気に入り、使い続ける場合、ぜひ<a href=\"%s\" title="
+#~ "\"%s\" target=\"_blank\">%s</a>でレビューしてください。"
+
+#~ msgid ""
+#~ "Questions should be asked on <a href=\"%s\" title=\"%s\" target=\"_blank"
+#~ "\">%s</a>."
+#~ msgstr ""
+#~ "質問は<a href=\"%s\" title=\"%s\" target=\"_blank\">%s</a>にてお願いいたし"
+#~ "ます。"
+
+#~ msgid ""
+#~ "If you find a bug, please file it on <a href=\"%s\" title=\"%s\" target="
+#~ "\"_blank\">%s</a>."
+#~ msgstr ""
+#~ "不具合を発見された場合、<a href=\"%s\" title=\"%s\" target=\"_blank\">%s</"
+#~ "a>にて報告してください。"
+
+#~ msgid ""
+#~ "English correction and new language translation are <a href=\"%s\" title="
+#~ "\"%s\" target=\"_blank\">welcome</a>."
+#~ msgstr ""
+#~ "英語の改善や新しい言語への対応は<a href=\"%s\" title=\"%s\" target="
+#~ "\"_blank\">歓迎です</a>。"
+
+#~ msgid "Donation"
+#~ msgstr "サポート"
+
+#~ msgid ""
+#~ "Please support %s with a <a href=\"%s\" title=\"%s\" target=\"_blank"
+#~ "\">PayPal Donation</a>."
+#~ msgstr ""
+#~ "%s の開発を<a href=\"%s\" title=\"%s\" target=\"_blank\">ペイパルで応援し"
+#~ "てください</a>。"
+
+#~ msgid "[app id:%d] %s %s"
+#~ msgstr "[アプリid:%d] %s %s"
+
+#~ msgid "Genre"
+#~ msgstr "カテゴリ"
+
+#~ msgid "Language"
+#~ msgstr "言語"
+
+#~ msgid "Devices"
+#~ msgstr "機種"
+
+#~ msgid "all"
+#~ msgstr "全機種"
+
+#~ msgid "Price"
+#~ msgstr "価格"
+
+#~ msgid "free"
+#~ msgstr "無料"
+
+#~ msgid "Version"
+#~ msgstr "バージョン"
+
+#~ msgid "Size"
+#~ msgstr "容量"
+
+#~ msgid "Artist"
+#~ msgstr "開発者"
+
+#~ msgid "Seller"
+#~ msgstr "販売者"
+
+#~ msgid "Released at"
+#~ msgstr "公開日"
+
+#~ msgid "User Rating (all version)"
+#~ msgstr "評価(全バージョン)"
+
+#~ msgid "by %d"
+#~ msgstr "%d人のレビュー"
+
+#~ msgid "no rating yet"
+#~ msgstr "評価なし"
+
+#~ msgid "User Rating (current version)"
+#~ msgstr "評価(現バージョン)"
+
+#~ msgid "Screenshots"
+#~ msgstr "スクリーンショット"
+
+#~ msgid "Could not fetch the App information"
+#~ msgstr "アプリの情報を取得できませんでした"
+
+#~ msgid "No such application found. Maybe deleted?"
+#~ msgstr ""
+#~ "指定されたアプリケーションが見つかりませんでした。削除されたのかもしれませ"
+#~ "ん"
+
+#~ msgid "Could not get an affiliate link"
+#~ msgstr "アフィリエイトリンクを生成できませんでした"
+
+#~ msgid "No affiliate link generated(no body)"
+#~ msgstr "アフィリエイトリンクは生成されませんでした(本文なし)"
+
+#~ msgid "No affiliate link generated(invalid advertiser)"
+#~ msgstr "アフィリエイトリンクは生成されませんでした(無効なadvertiser)"
+
+#~ msgid "No affiliate link generated(blank url)"
+#~ msgstr "アフィリエイトリンクは生成されませんでした(blank url)"
+
+#~ msgid "This link is not support by the affiliator"
+#~ msgstr "このリンクはアフィリエイト対象外です"
+
+#~ msgid "Save Changes"
+#~ msgstr "更新"
+
+#~ msgid "(more)"
+#~ msgstr "(もっと見る)"
+
+#~ msgid "Which country's market you link"
+#~ msgstr "どの国のiTunesにリンクしますか?"
+
+#~ msgid "Invalid Country"
+#~ msgstr "不正な国コード"
+
+#~ msgid ""
+#~ "The given country is not supported or does not exist on iTunes app store."
+#~ msgstr ""
+#~ "指定された国はプラグインのサポート外か、iTunesアップストアに存在しない国で"
+#~ "す。"
+
+#~ msgid "The app (%s) info is not available in this locale."
+#~ msgstr ""
+#~ "このアプリ(%s)の情報は現在選択されている言語では取得できませんでした。"
+
+#, fuzzy
+#~ msgid "Invalid Linkshare Web Token"
+#~ msgstr "リンクシェア(米国)のWebサービス・トークン"
+
+#~ msgid "Please check your token on Linkshare"
+#~ msgstr "リンクシェアのサイトでトークンを再度確認してください"
+
+#~ msgid "ggg dd gg"
+#~ msgstr "dd 人間 ほげ"
+
+#~ msgid "ggg %d gg"
+#~ msgstr "%d 人間 ほげ"
+
+#~ msgid "by %1$d"
+#~ msgstr "%1$d 人のレビュー"
+
+#~ msgid "Error Title"
+#~ msgstr "エラー"
