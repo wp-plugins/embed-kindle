@@ -1,13 +1,13 @@
 === Embed Kindle ===
 Contributors: akky
 Donate link: http://akimoto.jp/blog/
-Version 1.0.0
+Version 1.0.1
 Tags: Kindle, embed, Kindle Reader, Kindle viewer, viewer, affiliate, e-book, Amazon, Amazon Kindle, sample, e-book, ebook, digital book, online book
 Home: http://wordpress.org/extend/plugins/embed-kindle
 Support: akimoto on gmail
 Requires at least: 3.4.0
-Tested up to: 3.4.1
-Stable tag: trunk
+Tested up to: 3.4.2
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -48,9 +48,12 @@ This section describes how to install the plugin and get it working.
 
 == Changelog ==
 
-= 1.0 =
+= 1.0.0 =
 * initial release
+
+= 1.0.1 =
+* added PHP version check, to show an error when run on too old PHP (ver 5.2 or earlier)
 
 == Upgrade Notice ==
 
-This is the initial version.
+PHP version check added.
